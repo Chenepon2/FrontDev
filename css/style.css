@@ -1,0 +1,56 @@
+*{
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+
+}
+
+nav{
+    background-color: rgb(247, 173, 15,20);
+    
+}
+
+.titulo{
+    text-align: center;
+    font-style:unset;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid black;
+
+    
+}
+
+main{
+    margin-top: 7rem;
+}
+picture{
+    display: flex;
+}
+
+.img1{
+    width: 18rem;
+    margin-left: 5rem;
+    
+}
+
+.img2{
+    width: 20.5rem;
+    margin-left: 7rem;
+ 
+}
+
+.img3{
+    margin-top: 15px;
+    width: 24rem;
+    height: 47vh;
+    margin-left: 3.5rem;
+}
+
+footer{
+    margin-top: 18vh;
+    text-align: center;
+    background-color:rgb(247, 173, 15,20); 
+    border:black solid;
+    padding: 5px;
+
+}
